@@ -36,11 +36,6 @@ Here are some of the cool things I’ve been building:
 Tech: `MERN Stack`, `AI`, `Redis`, `Shadcn UI`  
 [🔗 View Repository](#) | [🌐 Live Demo](#)
 
-### 🛍️ E-Commerce Platform  
-> A scalable full-stack store with custom cart, payment integration, and admin panel.  
-Tech: `React`, `PostgreSQL`, `Express`, `JWT Auth`  
-[🔗 View Repository](#)
-
 > _(More projects on the way...)_
 
 ---
