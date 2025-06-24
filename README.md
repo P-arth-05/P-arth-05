@@ -47,18 +47,15 @@ Tech: `React`, `PostgreSQL`, `Express`, `JWT Auth`
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=P-arth-05&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-arth-05&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 Email: youremail@example.com
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/parthagarwal18/)
+- 📧 Email: agarwal18parth@gmail.com
 ---
 
 > ⚡ _“Code is poetry. Let’s build something that matters.”_
