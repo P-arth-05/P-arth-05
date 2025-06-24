@@ -47,7 +47,7 @@ Tech: `React`, `PostgreSQL`, `Express`, `JWT Auth`
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=P-arth-05&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=P-arth-05&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-arth-05&layout=compact&theme=tokyonight)
 
 ---
