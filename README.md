@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a passionate **Full Stack Developer** with a l
 
 ## 🚀 About Me
 
-- 🎓 I'm a student / developer based in [Your Location]
+- 🎓 I'm a student / developer based in Delhi,India.
 - 💡 I love solving problems and creating products with real-world impact
 - 🛠️ Tech stack: `React.js`, `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `Tailwind CSS`, `Python`, `Git`
 - 🤖 Currently exploring: AI/ML integrations, WebSockets, and scalable architectures
