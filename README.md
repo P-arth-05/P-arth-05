@@ -1,56 +1,185 @@
-# 👋 Hey there, I'm Parth!
+# Hi, I'm Parth 👋
 
-Welcome to my GitHub profile. I'm a passionate **Full Stack Developer** with a love for building cool products, exploring new tech, and automating the boring stuff. Currently working on some exciting projects involving **React**, **Node.js**, and **AI integrations**.
+### Building intelligent systems that *feel* alive.
 
----
-
-## 🚀 About Me
-
-- 🎓 I'm a student / developer based in Delhi,India.
-- 💡 I love solving problems and creating products with real-world impact
-- 🛠️ Tech stack: `React.js`, `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `Tailwind CSS`, `Python`, `Git`
-- 🤖 Currently exploring: AI/ML integrations, WebSockets, and scalable architectures
-- 🧠 Always learning new things and contributing to open source
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=P-arth-05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧰 Tech Toolbox
+## About Me
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+I'm a Computer Science and Engineering undergraduate (Class of 2027) who loves building systems at the intersection of:
 
----
+* **Artificial Intelligence**
+* **Computer Vision**
+* **Interactive Frontend Experiences**
+* **Distributed & Parallel Computing**
+* **Generative Systems**
 
-## 🛠️ Projects
+I enjoy engineering products that combine deep technical architecture with polished user experiences — from reinforcement learning pipelines and semantic retrieval systems to immersive 3D web interfaces.
 
-Here are some of the cool things I’ve been building:
-
-### 📦 ChronoPay – Time-for-Service SaaS  
-> Pay with your **time**, not your money. Users complete microtasks to unlock premium services.  
-Tech: `MERN Stack`, `AI`, `Redis`, `Shadcn UI`  
-[🔗 View Repository](#) | [🌐 Live Demo](#)
-
-> _(More projects on the way...)_
+Most of my work revolves around making intelligent systems more interactive, responsive, and human.
 
 ---
 
-## 📈 GitHub Stats
+## What I Work With
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-arth-05&layout=compact&theme=tokyonight)
+### Languages
+
+```txt
+JavaScript • TypeScript • Python • Java • C++ • C • SQL
+```
+
+### Frontend & Full Stack
+
+```txt
+React • Next.js • Tailwind CSS • Node.js • Express • WebSockets
+```
+
+### AI / ML / CV
+
+```txt
+PyTorch • OpenCV • YOLOv8 • CLIP • SAM • FAISS • Reinforcement Learning
+```
+
+### Parallel & Systems Computing
+
+```txt
+MPI • Distributed Systems • Parallel Algorithms
+```
+
+### Creative & Interactive Tech
+
+```txt
+Spline • 3D Interaction Design • Motion Systems • UI Engineering
+```
 
 ---
 
-## 📫 Connect With Me
+## Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/parthagarwal18/)
-- 📧 Email: agarwal18parth@gmail.com
+### 🚦 RouteCause — Intelligent Traffic Management
+
+Built an adaptive traffic management system using:
+
+* Q-Learning for traffic signal optimization
+* YOLOv8 for real-time vehicle detection
+* WebSockets for low-latency communication
+* Dynamic state formulation for reinforcement learning environments
+
+**Focus Areas:**
+`Reinforcement Learning` `Computer Vision` `Real-Time Systems`
+
 ---
 
-> ⚡ _“Code is poetry. Let’s build something that matters.”_
+### 🎨 Material Diffusion System
 
+Built a controllable generative pipeline focused on material-aware image synthesis and latent-space manipulation.
+
+The project explored:
+
+* Diffusion-based image generation workflows
+* Material-conditioned generation techniques
+* Latent space steering and representation control
+* Multimodal prompting pipelines
+* Generative consistency across textures and surfaces
+
+Worked extensively with architectures and concepts surrounding:
+
+* Stable Diffusion ecosystems
+* VAEs and latent representations
+* CLIP-guided conditioning
+* Feature-space manipulation
+* Generative controllability
+
+**Focus Areas:**
+`Generative AI` `Diffusion Models` `Latent Space Engineering`
+
+---
+
+### ⚡ Distributed Merge Sort Simulation
+
+Implemented a distributed merge sort simulation using MPI to explore:
+
+* Inter-process communication
+* Distributed workload balancing
+* Parallel execution efficiency
+* Message passing architectures
+
+**Focus Areas:**
+`Parallel Computing` `Distributed Systems` `MPI`
+
+---
+
+## Current Interests
+
+Right now, I’m deeply interested in:
+
+* Multimodal AI systems
+* Agentic workflows & AI automation
+* Latent space manipulation
+* Audio-reactive generation systems
+* Interactive AI products
+* Human-centered intelligent interfaces
+* Computer vision for real-world environments
+* High-performance inference systems
+
+I’m especially fascinated by systems that blur the line between engineering, intelligence, and interaction.
+
+---
+
+## Beyond Code
+
+* Teaching Assistant for **Problem Solving Using Programming**
+* Contributor to the teaching team at **AURA NGO**
+* Preparing for advanced systems and research-oriented problem solving
+
+I enjoy mentoring, simplifying difficult concepts, and building communities around learning.
+
+---
+
+## Philosophy
+
+> "Good systems are not just intelligent.
+> They are intuitive, responsive, and alive."
+
+I care about:
+
+* Strong engineering fundamentals
+* Scalable architecture
+* Mathematical understanding
+* Clean user experiences
+* Systems that feel seamless to interact with
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P-arth-05&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-arth-05&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-arth-05&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/P-arth-05" target="_blank">GitHub</a>
+</p>
+
+---
+
+## Currently Building
+
+```txt
+AI Systems × Interactive Experiences × Real-Time Intelligence
+```
+
+Always exploring the next layer.
