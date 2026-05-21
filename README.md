@@ -2,9 +2,6 @@
 
 ### Building intelligent systems that *feel* alive.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=P-arth-05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -155,23 +152,11 @@ I care about:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-arth-05&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-arth-05&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-arth-05&theme=tokyonight" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="left">
   <a href="https://github.com/P-arth-05" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/parthagarwal1812/" target="_blank">Linkedin</a>
 </p>
 
 ---
