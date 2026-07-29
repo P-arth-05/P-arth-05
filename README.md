@@ -99,13 +99,7 @@ Q-Learning agent + YOLOv8 vehicle detection to dynamically optimize traffic sign
 
 ---
 
-## LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Parth_18_?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode stats" />
-</p>
-
----
 
 ## Currently Exploring
 
